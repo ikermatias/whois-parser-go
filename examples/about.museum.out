@@ -1,0 +1,76 @@
+registrar_id: 9999
+registrar_name: Registry Operations
+whois_server: 
+referral_url: 
+domain_id: DOM000000000677-MUSEUM
+domain_name: about.museum
+domain_status: ok
+created_date: 2005-02-04T18:32:48Z
+updated_date: 2018-03-07T08:20:19Z
+expiration_date: 2019-02-04T19:32:48Z
+name_servers: ns1.nic.fr,ns2.nic.fr,ns3.nic.fr
+domain_dnssec: signedDelegation
+
+registrant
+id: REDACTED FOR PRIVACY
+name: REDACTED FOR PRIVACY
+organization: 
+street: REDACTED FOR PRIVACY
+street_ext: 
+city: REDACTED FOR PRIVACY
+province: 
+postal_code: REDACTED FOR PRIVACY
+country: FR
+phone: REDACTED FOR PRIVACY
+phone_ext: 
+fax: REDACTED FOR PRIVACY
+fax_ext: 
+email: please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name.
+
+admin
+id: REDACTED FOR PRIVACY
+name: REDACTED FOR PRIVACY
+organization: REDACTED FOR PRIVACY
+street: REDACTED FOR PRIVACY
+street_ext: 
+city: REDACTED FOR PRIVACY
+province: REDACTED FOR PRIVACY
+postal_code: REDACTED FOR PRIVACY
+country: REDACTED FOR PRIVACY
+phone: REDACTED FOR PRIVACY
+phone_ext: 
+fax: REDACTED FOR PRIVACY
+fax_ext: 
+email: please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name.
+
+tech
+id: REDACTED FOR PRIVACY
+name: REDACTED FOR PRIVACY
+organization: REDACTED FOR PRIVACY
+street: REDACTED FOR PRIVACY
+street_ext: 
+city: REDACTED FOR PRIVACY
+province: REDACTED FOR PRIVACY
+postal_code: REDACTED FOR PRIVACY
+country: REDACTED FOR PRIVACY
+phone: REDACTED FOR PRIVACY
+phone_ext: 
+fax: REDACTED FOR PRIVACY
+fax_ext: 
+email: please query the rdds service of the registrar of record identified in this output for information on how to contact the registrant, admin, or tech contact of the queried domain name.
+
+bill
+id: 
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 

@@ -1,0 +1,76 @@
+registrar_id: 
+registrar_name: AFNIC registry
+whois_server: 
+referral_url: 
+domain_id: 
+domain_name: nic.re
+domain_status: active
+created_date: 1994-12-31T23:00:00Z
+updated_date: 2018-12-31T23:33:19Z
+expiration_date: 2019-12-31T23:00:00Z
+name_servers: ns1.nic.fr,ns2.nic.fr,ns3.nic.fr
+domain_dnssec: 
+
+registrant
+id: A1967-FRNIC
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 
+
+admin
+id: NFC1-FRNIC
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 
+
+tech
+id: AI1-FRNIC
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 
+
+bill
+id: 
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 

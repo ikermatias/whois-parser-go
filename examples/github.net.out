@@ -1,0 +1,76 @@
+registrar_id: 48
+registrar_name: ENOM, INC.
+whois_server: WHOIS.ENOM.COM
+referral_url: WWW.ENOM.COM
+domain_id: 1399182597_DOMAIN_NET-VRSN
+domain_name: github.net
+domain_status: registrar-lock*,clienttransferprohibited
+created_date: 2008-02-09T02:06:00.00Z
+updated_date: 2019-01-11T00:26:25.00Z
+expiration_date: 2020-02-09T02:06:00.00Z
+name_servers: ns1.p16.dynect.net,ns2.p16.dynect.net,ns3.p16.dynect.net,ns4.p16.dynect.net
+domain_dnssec: UNSIGNED
+
+registrant
+id: 
+name: REDACTED FOR PRIVACY
+organization: REDACTED FOR PRIVACY
+street: REDACTED FOR PRIVACY
+street_ext: 
+city: REDACTED FOR PRIVACY
+province: REDACTED FOR PRIVACY
+postal_code: REDACTED FOR PRIVACY
+country: REDACTED FOR PRIVACY
+phone: REDACTED FOR PRIVACY
+phone_ext: 
+fax: REDACTED FOR PRIVACY
+fax_ext: 
+email: redacted for privacy
+
+admin
+id: 
+name: REDACTED FOR PRIVACY
+organization: REDACTED FOR PRIVACY
+street: REDACTED FOR PRIVACY
+street_ext: 
+city: REDACTED FOR PRIVACY
+province: REDACTED FOR PRIVACY
+postal_code: REDACTED FOR PRIVACY
+country: REDACTED FOR PRIVACY
+phone: REDACTED FOR PRIVACY
+phone_ext: 
+fax: REDACTED FOR PRIVACY
+fax_ext: 
+email: redacted for privacy
+
+tech
+id: 
+name: REDACTED FOR PRIVACY
+organization: REDACTED FOR PRIVACY
+street: REDACTED FOR PRIVACY
+street_ext: 
+city: REDACTED FOR PRIVACY
+province: REDACTED FOR PRIVACY
+postal_code: REDACTED FOR PRIVACY
+country: REDACTED FOR PRIVACY
+phone: REDACTED FOR PRIVACY
+phone_ext: 
+fax: REDACTED FOR PRIVACY
+fax_ext: 
+email: redacted for privacy
+
+bill
+id: 
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 

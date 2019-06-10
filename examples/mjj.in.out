@@ -1,0 +1,76 @@
+registrar_id: 48
+registrar_name: eNom, Inc.
+whois_server: 
+referral_url: www.enom.com
+domain_id: D969480-AFIN
+domain_name: MJJ.IN
+domain_status: clienttransferprohibited
+created_date: 2005-03-11T20:40:34Z
+updated_date: 2018-03-11T22:32:44Z
+expiration_date: 2019-03-11T20:40:34Z
+name_servers: dns1.name-services.com,dns2.name-services.com,dns3.name-services.com,dns4.name-services.com,dns5.name-services.com
+domain_dnssec: unsigned
+
+registrant
+id: 
+name: 
+organization: Estate of Michael Jackson
+street: 
+street_ext: 
+city: 
+province: CA
+postal_code: 
+country: US
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 
+
+admin
+id: 
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 
+
+tech
+id: 
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 
+
+bill
+id: 
+name: 
+organization: 
+street: 
+street_ext: 
+city: 
+province: 
+postal_code: 
+country: 
+phone: 
+phone_ext: 
+fax: 
+fax_ext: 
+email: 
